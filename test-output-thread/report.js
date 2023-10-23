@@ -1,0 +1,4 @@
+$(document).ready(function() {
+CucumberHTML.timelineItems.pushArray([{"id":"7f9a4961-8c96-4ee3-a490-d1d48c18a47c","feature":"Testing Amazon page","scenario":"user want to perform wishlist","start":1698054732768,"group":1,"content":"","tags":"@all,","end":1698054762655,"className":"passed"},{"id":"6b0daafd-081b-40f5-85cd-7b40ce1621dc","feature":"Testing Amazon page","scenario":"User on sigin page of amazon","start":1698054689135,"group":1,"content":"","tags":"@all,","end":1698054703240,"className":"passed"},{"id":"658bce40-a017-44f9-87c1-e5323701d76a","feature":"Testing Amazon page","scenario":"user want to perform add to cart","start":1698054703266,"group":1,"content":"","tags":"@all,","end":1698054732740,"className":"passed"}]);
+CucumberHTML.timelineGroups.pushArray([{"id":1,"content":"Thread[main,5,main]"}]);
+});
